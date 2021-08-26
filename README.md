@@ -1,5 +1,3 @@
 # Demo my-website
 
-Now , editing on read-me branch
-
-Updating locally
+update on master branch before rebase
